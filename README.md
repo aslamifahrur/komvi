@@ -68,6 +68,7 @@ Setelah praktikum, mahasiswa dapat (1) menjelaskan perbedaan data kalibrasi dan 
 6. Catat `fx`, `fy`, `cx`, `cy`, `RMS reprojection error`, dan koefisien distorsi. Simpan `calibration.npz`.
 
 ![Alur estimasi panjang fokus](images/03_alur_kalibrasi.png)
+![Parameter kalibrasi](images/1.png)
 
 **Bagaimana angka seperti `fx = 800 px` diperoleh?** OpenCV mengetahui jarak antarsudut **di papan**, mendeteksi posisi sudut dalam **piksel**, lalu mencari parameter proyeksi kamera yang meminimalkan kesalahan antara titik sudut yang teramati dan yang diproyeksikan secara matematis. **800 px hanyalah contoh**, bukan angka yang harus diperoleh mahasiswa.
 
