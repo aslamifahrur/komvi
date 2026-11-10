@@ -2,7 +2,7 @@
 
 > **Tujuan:** mendapatkan **panjang fokus kamera dari kalibrasi**, membuat sepasang foto stereo dengan **satu smartphone**, menghitung **disparity**, memperkirakan **depth**, lalu mengukur error. Dikerjakan memakai **Google Colab atau Jupyter Notebook**.
 >
-> **Berkas notebook:** [`Praktikum_Stereo_1_HP_Kalibrasi_Depth_Flowchart.ipynb`](Praktikum_Stereo_1_HP_Kalibrasi_Depth_Flowchart.ipynb). Semua ilustrasi di bawah tersimpan di folder [`images/`](images/).
+> **Berkas notebook:** [`Praktikum_Stereo_1_HP_Kalibrasi_Depth_Flowchart.ipynb`](Praktikum_Stereo_1_HP_Kalibrasi_Depth_Flowchart.ipynb). 
 
 ![Gambaran semua tahap praktikum](images/00_ringkasan_visual.png)
 
